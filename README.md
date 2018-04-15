@@ -2,7 +2,7 @@
 A Psychological experiment about sound in VR
 Source code of conferece paper in IEEE VR 2018
 
-<img src="demo.gif" align="left" width="1000" height="1000"/>
+<img src="demo.gif" align="left" height="50%" width="50%/>
 
 Porject Link: http://www.yzhu.io/projects/vr18_causalsound/index.html
 
