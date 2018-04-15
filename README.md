@@ -6,7 +6,7 @@ Source code of conferece paper in IEEE VR 2018
 
 <img src="demo.gif" align="left"  />
 
-\ 
+<br />
 
 Porject Link: http://www.yzhu.io/projects/vr18_causalsound/index.html
 
