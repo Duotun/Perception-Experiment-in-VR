@@ -4,7 +4,8 @@ A Psychological experiment about sound in VR
 
 Source code of conferece paper in IEEE VR 2018
 
-<img src="demo.gif" align="left"  />
+<img src="demo.gif" align="center"  />
+<img src="demo.gif" align="center"  />
 
 <br />
 
