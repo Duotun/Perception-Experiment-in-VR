@@ -4,10 +4,6 @@ A Psychological experiment about sound in VR
 
 Source code of conferece paper in IEEE VR 2018
 
-<img src="simple_demo/demo.gif" align="center"  />
-
-
-<br />
 
 Porject Link: http://www.yzhu.io/projects/vr18_causalsound/index.html
 
