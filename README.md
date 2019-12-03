@@ -1,6 +1,6 @@
 
 # Perception-Experiment-in-VR
-A Psychological experiment about sound in VR
+A Psychological experiment based on rigidbody sound simulation in VR
 
 Source code of conferece paper in IEEE VR 2018
 
